@@ -1,5 +1,5 @@
 # Omni-Prompt
-A Promtp generator 
+A prompt  generator 
 Omni-Prompt-v0.0x
 ##
 title: code generator from description
